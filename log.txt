@@ -1,4 +1,6 @@
-67a6334 (HEAD -> main) Completed Task 2.2
+3e37f71 (HEAD -> main) Completed 2.4
+ecba0cc Completed 2.3
+67a6334 Completed Task 2.2
 18c4c7a Completed Task 2.1
 fc8fc41 Completed Task 2.1
 5eaae91 Completed Task 1.2
